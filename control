@@ -1,0 +1,9 @@
+Package: com.singsec.procdump
+Name: procdump
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: procdump nicely lists all of the system processes, using KERN_PROC to dump the list.
+Maintainer: Rock3t
+Author: Rock3t
+Section: System
+Tag: role::hacker
