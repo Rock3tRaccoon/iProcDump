@@ -14,4 +14,4 @@ Becomes Interactive and Updates PIDS (Beta Feature)
 
 
 ![showcase](pics/image.png)
-![showcase2](pics/image.png)
+![showcase2](pics/image2.png)
