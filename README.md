@@ -11,3 +11,7 @@ Dumps Process Names and IDs
 
 pd -i :
 Becomes Interactive and Updates PIDS (Beta Feature)
+
+
+![showcase](pics/image.png)
+![showcase2](image.png)
